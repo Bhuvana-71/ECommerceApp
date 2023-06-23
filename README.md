@@ -3,6 +3,11 @@ Ecommerce App in Which i have used xml for UI design and for the database i used
 ![Screenshot_20230623_231440](https://github.com/Bhuvana-71/ECommerceApp/assets/112925214/4bee5c0e-9136-42b1-b6fd-0a3c5075b8b2)
 ![Screenshot_20230623_231458](https://github.com/Bhuvana-71/ECommerceApp/assets/112925214/9338da44-c661-4500-9d83-6057889878a1)
 ![Screenshot_20230623_231453](https://github.com/Bhuvana-71/ECommerceApp/assets/112925214/3b90d88c-53a2-4877-a8bf-3658e0d6a78d)
+
+
+![Screenshot_20230623_231504](https://github.com/Bhuvana-71/ECommerceApp/assets/112925214/3d462c97-793d-4377-898e-5eff29696607)
+![Screenshot_20230623_231515](https://github.com/Bhuvana-71/ECommerceApp/assets/112925214/5941d456-95ae-4296-8af1-f91a4536e3fb)
+
 ![Screenshot_20230623_231501](https://github.com/Bhuvana-71/ECommerceApp/assets/112925214/b8f3e939-b591-4d12-b77d-49f41a8dd045)
 
 ![Screenshot_20230623_231624](https://github.com/Bhuvana-71/ECommerceApp/assets/112925214/060b707c-56a4-4e9c-8e68-79b0a8bc9d50)
